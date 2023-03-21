@@ -5,3 +5,13 @@
 	gap:20px;
 	aspect-ratio:3/2;
 }
+img{
+	object-fit:cover;
+}
+button{
+	padding:5px;
+	background-color:red;
+	width:100px;
+	height:25px;
+	border-radius:5px;
+}
